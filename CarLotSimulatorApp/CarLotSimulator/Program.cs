@@ -6,6 +6,8 @@ namespace CarLotSimulator
     {
         static void Main(string[] args)
         {
+
+            Car car1 = new(2005, "Ford", "Focus", "Yes", "Yes", "Yes");
             //TODO
 
             //Create a seperate class file called Car
